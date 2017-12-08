@@ -4,19 +4,18 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(December 31, 1996)
 
 ### Student Name:  
-(First and Last Name)
+(Cellina Danvers)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+Use jQuery and AJAX methods to include an outside database in our application
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://csd15.github.io/Lesson8_ajax/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. The class and id elements role in client/server relationship
+2. The purpose of the .done() method
+3. What JSON is and how to retrive data from a response
